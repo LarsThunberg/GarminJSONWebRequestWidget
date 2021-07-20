@@ -1,0 +1,5 @@
+<layout id="MainLayout">
+  <label id="center" x="center" y="center" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+  <label id="high" x="center" y="10" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+  <label id="low" x="center" y="210" font="Gfx.FONT_XTINY" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+</layout>
