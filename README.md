@@ -9,3 +9,8 @@ Visit Garmin Connect IQ Developer site for more information and developer suppor
 https://developer.garmin.com/connect-iq/overview/
 
 ![Vivoactive4Widget](https://user-images.githubusercontent.com/35871385/126353970-0c418d32-523b-427c-ac41-baafd3080002.jpg)
+
+This is what a more advanced implemetation could look like. The screenshot is from my home weather station data published as JSON data and imported to Garmin Widget:
+
+![image](https://user-images.githubusercontent.com/35871385/126678018-f25a6016-2d87-4c92-8ab6-56a774b429fd.png)
+
